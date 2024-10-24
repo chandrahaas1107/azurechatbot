@@ -1,0 +1,13 @@
+name,cust_id,product_name,purchase_date,shipment_progress,price
+Olivia  ,1023,Smartphone,01/15/2021,Order Placed,699.99
+Liam  ,1456,Laptop,03/22/2022,Processing,1299
+Emma  ,1789,Tablet,05/30/2023,Shipped,349.99
+Noah  ,2345,Smartwatch,07-04-2020,In Transit,199.99
+Ava  ,2678,Wireless Earbuds,09-10-2019,Out for Delivery,89.99
+Elijah  ,3012,Bluetooth Speaker,11/25/2024,Delivered,249
+Sophia  ,3456,Digital Camera,12/31/2022,Exception,499.99
+Mason  ,4123,Television,02/14/2023,Returned to Sender,799.99
+Isabella  ,4567,Gaming Console,04-01-2021,Pending,399
+Lucas  ,4789,External Hard Drive,06/18/2020,Cancelled,149.99
+Mia  ,5123,Smart Home Hub,08-02-2024,Awaiting Pickup,59.99
+Jackson  ,5678,Fitness Tracker,10/30/2019,Delayed,899
