@@ -3,5 +3,4 @@ botbuilder_schema==4.16.2
 Flask==2.2.2
 pandas==2.0.3
 tensorflow==2.15.0
-tensorflow_intel==2.15.0
 transformers==4.32.1
